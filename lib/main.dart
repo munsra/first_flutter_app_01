@@ -26,7 +26,7 @@ class FirstScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Prima Pagina'),
+        title: const Text('First Screen'),
       ),
       body: Center(
         child: ElevatedButton(
