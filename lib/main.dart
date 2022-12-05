@@ -30,7 +30,7 @@ class FirstScreen extends StatelessWidget {
       ),
       body: Center(
         child: ElevatedButton(
-          child: const Text('Open Second Screen'),
+          child: const Text('Apri seconda pagina'),
           onPressed: () {
             Navigator.push(
               context,
